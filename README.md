@@ -1,8 +1,8 @@
-Marketing Analytics
+_Marketing Analytics_
 Repository kali ini akan membahas algoritma-algoritma yang akan digunakan dalam pengambilan keputusan dan rekomendasi dalam bidang marketing / 
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 
-Algortima
+_Algortima_
 ➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 Algoritma yang akan digunakan dalam Marketing Analytics kali ini adalah
 1. Market Basket Analysis (Apriori)
